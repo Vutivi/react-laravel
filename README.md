@@ -7,13 +7,13 @@ A simple task management app
 Clone the project repository by running the command below if you use SSH
 
 ```bash
-git clone git@github.com:ammezie/tasksman.git
+git clone git@github.com:vutivi/react-laravel.git
 ```
 
 If you use https, use this instead
 
 ```bash
-git clone https://github.com/ammezie/tasksman.git
+git clone https://github.com/vutivi/react-laravel.git
 ```
 
 After cloning, run:
